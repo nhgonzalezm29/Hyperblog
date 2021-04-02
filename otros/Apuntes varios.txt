@@ -1,0 +1,2 @@
+Este es un nuevo archivo añadido de forma experimental
+Pero ahora le adiciono un mensaje al hacer el merge a master.
